@@ -1,0 +1,14 @@
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\bin\Debug\net8.0\TestCode.exe
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\bin\Debug\net8.0\TestCode.deps.json
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\bin\Debug\net8.0\TestCode.runtimeconfig.json
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\bin\Debug\net8.0\TestCode.dll
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\bin\Debug\net8.0\TestCode.pdb
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.AssemblyInfoInputs.cache
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.AssemblyInfo.cs
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.dll
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\refint\TestCode.dll
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.pdb
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\TestCode.genruntimeconfig.cache
+C:\Users\ЛяВумба\Desktop\test_code\TestCode\obj\Debug\net8.0\ref\TestCode.dll
