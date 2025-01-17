@@ -1,0 +1,42 @@
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.AssemblyInfoInputs.cache
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.AssemblyInfo.cs
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.csproj.CoreCompileInputs.cache
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\bin\Debug\net8.0\1Program.exe
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\bin\Debug\net8.0\1Program.deps.json
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\bin\Debug\net8.0\1Program.runtimeconfig.json
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\bin\Debug\net8.0\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\bin\Debug\net8.0\1Program.pdb
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\refint\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.pdb
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\1Program.genruntimeconfig.cache
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1Program\1Program\obj\Debug\net8.0\ref\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.exe
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.deps.json
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.runtimeconfig.json
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.pdb
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.AssemblyInfoInputs.cache
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.AssemblyInfo.cs
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.csproj.CoreCompileInputs.cache
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\refint\1Program.dll
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.pdb
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.genruntimeconfig.cache
+C:\Users\bistr\OneDrive\Рабочий стол\C#\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\ref\1Program.dll
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.exe
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.deps.json
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.runtimeconfig.json
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.dll
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\bin\Debug\net8.0\1Program.pdb
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.AssemblyInfo.cs
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.dll
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\refint\1Program.dll
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.pdb
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\1Program.genruntimeconfig.cache
+C:\Users\Admin\Desktop\1 Zadanie Variant 5\1Program\obj\Debug\net8.0\ref\1Program.dll
